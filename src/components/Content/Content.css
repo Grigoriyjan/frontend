@@ -1,0 +1,12 @@
+.content{
+    text-align: left;
+    display: flex;
+    height: 100vh;
+}
+.container{
+    align-self: center;
+    padding: 0 50px 0 50px;
+}
+.title{
+    max-width: 600px;
+}
